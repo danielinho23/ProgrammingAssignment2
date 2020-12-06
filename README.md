@@ -103,6 +103,8 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+<!-- -->
 ## A pair of functions that cache the inverse of a matrix
 
 
@@ -165,4 +167,4 @@ cacheSolve <- function(x, ...) {
 
     ## Return the matrix
     m
-}
+} ##
