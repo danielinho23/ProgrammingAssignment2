@@ -1,7 +1,12 @@
  ##A pair of functions that cache the inverse of a matrix
 
 
- ##Creates a special matrix object that can cache its inverse
+ ##Creates a special matrix object that can cache its inverse through:
+ ##setting the value of the vector
+ ##get the value of the vector
+ ##set the value of the mean
+ ##get the value of the mean
+
      makeCacheMatrix <- function( m = matrix() ) {
 
     ## Initialize the inverse property
